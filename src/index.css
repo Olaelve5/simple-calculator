@@ -36,7 +36,6 @@ body {
   grid-template-rows: 18% 82%;
   row-gap: 60px;
   position: relative;
-  left: -55px;
 }
 
 #output-container {
